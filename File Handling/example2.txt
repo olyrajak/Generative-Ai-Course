@@ -1,1 +1,2 @@
-This is a new line of text.
+WE are exploring the file handling in python
+Hello we are exploring file handling in python
